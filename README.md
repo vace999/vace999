@@ -1,2 +1,1 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vace999)](https://github.com/anuraghazra/github-readme-stats)
+[![Discord Presence](https://lanyard.cnrad.dev/api/962327817922695168)](https://discord.com/users/962327817922695168)
